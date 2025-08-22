@@ -1,0 +1,66 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ---\
+# Custom default layout overriding Minimal theme\
+---\
+\
+<!doctype html>\
+<html lang="en">\
+  <head>\
+    <meta charset="utf-8">\
+    <meta name="viewport" content="width=device-width,initial-scale=1">\
+    <title>\{\{ page.title \}\} | \{\{ site.title \}\}</title>\
+\
+    \{%- comment -%\} Minimal theme base CSS \{%- endcomment -%\}\
+    <link rel="stylesheet"\
+      href="\{\{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url \}\}">\
+\
+    \{%- comment -%\} Your overrides \{%- endcomment -%\}\
+    <link rel="stylesheet" href="\{\{ '/assets/css/custom.css' | relative_url \}\}">\
+  </head>\
+\
+  <body>\
+    <div class="wrapper">\
+      <!-- HEADER -->\
+      <header class="site-header">\
+        <div class="brand-and-nav">\
+          <!-- Logo/photo + name -->\
+          <a class="site-logo" href="\{\{ '/' | relative_url \}\}">\
+            <img src="\{\{ '/assets/headshot.jpg' | relative_url \}\}" alt="\{\{ site.title \}\}">\
+            <span class="site-title">\{\{ site.title \}\}</span>\
+          </a>\
+\
+          <!-- Right-side navigation -->\
+          <nav class="site-nav">\
+            <a href="\{\{ '/' | relative_url \}\}">About me</a>\
+            <a href="\{\{ '/research' | relative_url \}\}">Research</a>\
+            <a href="\{\{ '/assets/CV.pdf' | relative_url \}\}" download>CV</a>\
+            <a class="icon-link" href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener">\
+              <!-- LinkedIn SVG icon -->\
+              <svg viewBox="0 0 24 24" aria-hidden="true" class="icon">\
+                <path d="M4.98 3.5C4.98 4.88 3.86 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM0 8h5v16H0V8zm7.5 0h4.8v2.2h.07c.67-1.27 2.3-2.6 4.73-2.6 5.06 0 6 3.33 6 7.66V24h-5v-7.1c0-1.7-.03-3.89-2.37-3.89-2.38 0-2.75 1.86-2.75 3.77V24h-5V8z"/>\
+              </svg>\
+              <span>LinkedIn</span>\
+            </a>\
+          </nav>\
+        </div>\
+      </header>\
+\
+      <!-- MAIN CONTENT -->\
+      <main>\
+        \{\{ content \}\}\
+      </main>\
+\
+      <!-- FOOTER -->\
+      <footer>\
+        <p><small>\'a9 \{\{ site.time | date: '%Y' \}\} \{\{ site.title \}\}</small></p>\
+      </footer>\
+    </div>\
+  </body>\
+</html>\
+}
