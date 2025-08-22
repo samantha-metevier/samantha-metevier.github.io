@@ -10,4 +10,4 @@ I am a PhD researcher student in Economics at the Norwegian School of Economics 
 
 - 📄 [Download my CV](assets/CV.pdf)
 - 📚 [Research projects](research.md)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/samantha-metevier/))
