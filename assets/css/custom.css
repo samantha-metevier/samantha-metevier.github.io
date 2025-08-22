@@ -1,0 +1,79 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 /* ===== Custom Overrides for Minimal theme ===== */\
+\
+/* Header layout: logo on the left, links on the right */\
+.site-header \{\
+  padding: 20px 0;\
+  border-bottom: 1px solid #eaecef;\
+  margin-bottom: 30px;\
+\}\
+\
+.brand-and-nav \{\
+  display: flex;\
+  align-items: center;\
+  justify-content: space-between;\
+\}\
+\
+/* Logo image */\
+.site-logo img \{\
+  width: 50px;          /* adjust size */\
+  height: 50px;\
+  border-radius: 50%;   /* circle photo */\
+  object-fit: cover;\
+\}\
+\
+/* If you also want your name beside the photo */\
+.site-logo \{\
+  display: flex;\
+  align-items: center;\
+  gap: 10px;\
+\}\
+.site-logo .site-title \{\
+  font-weight: 700;\
+  font-size: 1.2rem;\
+\}\
+\
+/* Nav links on the right */\
+.site-nav \{\
+  display: flex;\
+  gap: 18px;\
+  align-items: center;\
+\}\
+\
+.site-nav a \{\
+  text-decoration: none;\
+  color: inherit;\
+\}\
+\
+.site-nav a:hover \{\
+  text-decoration: underline;\
+\}\
+\
+/* LinkedIn SVG icon */\
+.icon \{\
+  width: 18px;\
+  height: 18px;\
+  vertical-align: -3px;\
+  fill: currentColor;\
+  margin-right: 6px;\
+\}\
+\
+.icon-link \{\
+  display: flex;\
+  align-items: center;\
+  gap: 4px;\
+\}\
+\
+/* Keep content centered */\
+.wrapper \{\
+  max-width: 800px;\
+  margin: 0 auto;\
+  padding: 0 20px;\
+\}\
+}
