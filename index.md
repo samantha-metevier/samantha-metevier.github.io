@@ -4,17 +4,22 @@ title: About me
 permalink: /
 ---
 
-<div style="display:flex; gap: 24px; align-items:flex-start; flex-wrap:wrap;">
-  <img src="/assets/photo.jpg" alt="Samantha Metevier" style="width:200px; max-width:40vw; border-radius:12px; margin:0;">
-  <div style="min-width:260px; flex:1 1 300px;">
-    <p>Hi! I’m Samantha Metevier. Short bio here—what you research, where you work/study, a sentence or two of interests.</p>
 
-    <p>Current focus: IO & applied micro, vertical bargaining, etc. Add links below:</p>
+<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap;">
+  <img src="/assets/photo.jpg" alt="Samantha Metevier"
+       style="flex:1; max-width:400px; border-radius:12px;">
+  <div style="flex:2; min-width:260px;">
+    <h1>Welcome.<h1>
+    <p>I am a PhD student in Economics at the Norwegian School of Economics (NHH).<p>
 
+<p>Research Interests:<p>
+<p>Development and labor economics; education; migration; child development, with emphasis on experimental methods.</p>
+
+   
     <ul>
       <li><a href="/research/">Research</a></li>
-      <li><a href="/assets/CV.pdf">CV (PDF)</a></li>
-      <li><a href="https://github.com/samantha-metevier">GitHub</a></li>
+      <li><a href="/assets/CV.pdf">Download CV (PDF)</a></li>
     </ul>
   </div>
 </div>
+
