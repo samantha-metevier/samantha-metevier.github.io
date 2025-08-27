@@ -8,10 +8,16 @@ permalink: /
   <img src="/assets/photo.jpg" alt="Samantha Metevier"
        style="flex:1; max-width:300px; border-radius:12px; margin:0;">
   <div style="flex:2; min-width:220px; font-size:0.9em; line-height:1.4;">
-   <p>I am a first year PhD student in Economics at the Norwegian School of Economics (NHH).<p>
+   <p>I am a PhD student in Economics at the Norwegian School of Economics (NHH). 
+  I received my MSc in Economics from the Toulouse School of Economics and a BSc in Computer Science from Seattle University.</p>
 
-<p>Research Interests:<p>
-<p>Development and labor economics; education; migration; child development, with emphasis on experimental methods.</p>
+<p><strong>Research Interests:</strong><br>
+Development and labor economics; education; migration; child development, with emphasis on experimental methods.</p>
+
+<p>Please feel free to contact me at <b>samantha.metevier@nhh.no</b></p>
+
+
+
 
     
   </div>
