@@ -1,5 +1,7 @@
 ---
-layout: home
-title: Home
+layout: page
+title: About me
+permalink: /
 ---
-Hello world.
+
+Short bio here. Add a photo, a few lines about your work, and links.
