@@ -2,3 +2,8 @@ title: "Samantha Metevier"
 url: "https://samantha-metevier.github.io"
 baseurl: ""
 theme: minima
+
+header_pages:
+  - index.md
+  - research.md
+  - cv.md
