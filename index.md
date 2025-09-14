@@ -9,7 +9,9 @@ permalink: /
        style="flex:1; max-width:300px; border-radius:12px; margin:0;">
   <div style="flex:2; min-width:220px; font-size:0.9em; line-height:1.4;">
 
-<p>I am a PhD student in Economics at the Norwegian School of Economics (NHH), affiliated with <a href="https://www.nhh.no/en/research-centres/fair/research/">the Centre for Experimental Research on Fairness, Inequality and Rationality (FAIR)</a>. I hold an MSc in Economics from the Toulouse School of Economics and a BSc in Computer Science from Seattle University. My research interests are in development and labour economics, focusing on topics in education, migration, and child development, with an emphasis on experimental methods.</p>
+<p>I am a PhD student in Economics at the Norwegian School of Economics (NHH), affiliated with <a href="https://www.nhh.no/en/research-centres/fair/research/">the Centre for Experimental Research on Fairness, Inequality and Rationality (FAIR)</a>. I hold an MSc in Economics from the Toulouse School of Economics and a BSc in Computer Science from Seattle University.</p>
+
+<p>My research interests are in development and labour economics, specifically topics in education, migration, and child development, with an emphasis on experimental methods.</p>
 
   
 
