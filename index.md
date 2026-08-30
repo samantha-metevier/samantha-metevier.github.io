@@ -1,7 +1,7 @@
-
 ---
-layout: page
-title:
+layout: default
+title: About Me
+permalink: /
 ---
 
 <div class="home-intro">
@@ -14,19 +14,19 @@ title:
     <p class="subtitle">Development and labour economist</p>
 
     <p>
-    I am a PhD student in Economics at the Norwegian School of Economics (NHH),
-    affiliated with the Centre for Experimental Research on Fairness,
-    Inequality and Rationality (FAIR).
+      I am a PhD student in Economics at the Norwegian School of Economics (NHH),
+      affiliated with the Centre for Experimental Research on Fairness,
+      Inequality and Rationality (FAIR).
     </p>
 
     <p>
-    My research interests are in development and labour economics,
-    specifically education, migration, and child development, with an
-    emphasis on experimental methods.
+      My research interests are in development and labour economics,
+      specifically education, migration, and child development, with an
+      emphasis on experimental methods.
     </p>
 
     <p>
-    <a href="mailto:samantha.metevier@nhh.no">samantha.metevier@nhh.no</a>
+      <a href="mailto:samantha.metevier@nhh.no">samantha.metevier@nhh.no</a>
     </p>
   </div>
 </div>
