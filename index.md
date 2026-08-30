@@ -1,27 +1,32 @@
+
 ---
 layout: page
-title: About me
-permalink: /
+title:
 ---
 
-<div style="display:flex; gap:16px; align-items:flex-start; flex-wrap:wrap; margin:0;">
-  <img src="/assets/photo.jpg" alt="Samantha Metevier"
-       style="flex:1; max-width:300px; border-radius:12px; margin:0;">
-  <div style="flex:2; min-width:220px; font-size:0.9em; line-height:1.4;">
+<div class="home-intro">
+  <div class="home-photo">
+    <img src="/assets/photo.jpg" alt="Samantha Metevier">
+  </div>
 
-<p>I am a PhD student in Economics at the Norwegian School of Economics (NHH), affiliated with <a href="https://www.nhh.no/en/research-centres/fair/research/">the Centre for Experimental Research on Fairness, Inequality and Rationality (FAIR)</a>. I hold an MSc in Econometrics from the Toulouse School of Economics and a BSc in Computer Science from Seattle University.</p>
+  <div class="home-bio">
+    <h1>Samantha Metevier</h1>
+    <p class="subtitle">Development and labour economist</p>
 
-<p>My research interests are in development and labour economics, specifically topics in education, migration, and child development, with an emphasis on experimental methods.</p>
+    <p>
+    I am a PhD student in Economics at the Norwegian School of Economics (NHH),
+    affiliated with the Centre for Experimental Research on Fairness,
+    Inequality and Rationality (FAIR).
+    </p>
 
-  
+    <p>
+    My research interests are in development and labour economics,
+    specifically education, migration, and child development, with an
+    emphasis on experimental methods.
+    </p>
 
-<p>Please feel free to contact me at <b>samantha.metevier@nhh.no</b></p>
-
-
-
-
-    
+    <p>
+    <a href="mailto:samantha.metevier@nhh.no">samantha.metevier@nhh.no</a>
+    </p>
   </div>
 </div>
-
-
