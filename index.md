@@ -27,7 +27,7 @@ permalink: /
     </p>
 
     <p>
-     Please feel free to reach out at <a href="mailto:samantha.metevier@nhh.no">samantha.metevier@nhh.no</a>.
+     Please feel free to reach out to me at <a href="mailto:samantha.metevier@nhh.no">samantha.metevier@nhh.no</a>.
     </p>
   </div>
 
