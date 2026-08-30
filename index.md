@@ -5,6 +5,7 @@ permalink: /
 ---
 
 <div class="home-intro">
+
   <div class="home-photo">
     <img src="/assets/photo.jpg" alt="Samantha Metevier">
   </div>
@@ -29,4 +30,5 @@ permalink: /
       <a href="mailto:samantha.metevier@nhh.no">samantha.metevier@nhh.no</a>
     </p>
   </div>
+
 </div>
