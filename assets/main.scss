@@ -91,3 +91,59 @@ a:hover {
   font-size: 15px;
   font-weight: 500;
 }
+
+
+
+
+/* ---------- Homepage intro ---------- */
+
+.home-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 45px;
+}
+
+.home-photo {
+  flex: 0 0 260px;
+}
+
+.home-photo img {
+  width: 260px;
+  height: auto;
+  display: block;
+  border-radius: 3px;
+}
+
+.home-bio {
+  flex: 1;
+}
+
+.home-bio h1 {
+  font-size: 32px;
+  margin-top: 0;
+  margin-bottom: 6px;
+  line-height: 1.2;
+}
+
+.home-bio .subtitle {
+  font-size: 17px;
+  color: #666;
+  margin-top: 0;
+  margin-bottom: 28px;
+}
+
+/* Mobile */
+@media screen and (max-width: 650px) {
+  .home-intro {
+    display: block;
+  }
+
+  .home-photo {
+    margin-bottom: 25px;
+  }
+
+  .home-photo img {
+    width: 220px;
+    max-width: 100%;
+  }
+}
