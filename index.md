@@ -5,7 +5,7 @@ title:
 
 <div class="home-intro">
   <div class="home-photo">
-    <img src="/assets/images/profile.jpg" alt="Samantha Metevier">
+    <img src="/assets/photo.jpg" alt="Samantha Metevier">
   </div>
 
   <div class="home-bio">
